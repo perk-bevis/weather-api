@@ -45,5 +45,5 @@ To delete a task, click the "Delete" button next to the task you want to delete.
 * `index.html` :
 This is the main file that contains the html code for the Weather-api.
 * `style.css` :
-
+This file contains the styling for the weather-api.
 * `main.js` :
