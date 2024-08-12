@@ -22,3 +22,9 @@ To mark a task as complete, simply click the checkbox next to the task descripti
 ### 4. Deleting a task
 To delete a task, click the "Delete" button next to the task you want to delete. This will remove the task from the to-do list.
 
+## Requirements
+
+- HTML
+- CSS
+- Javascript
+  
