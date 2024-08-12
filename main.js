@@ -32,6 +32,6 @@ async function changweatherUI(){
 
 search.addEventListener('keypress', function(e){
   if(e.code === 'Enter'){
-    changeWeatherUI()
+    changeweatherUI()
   }
 })
