@@ -47,3 +47,4 @@ This is the main file that contains the html code for the Weather-api.
 * `style.css` :
 This file contains the styling for the weather-api.
 * `main.js` :
+This file contains the logic for the weather, including searching for sun, rain, and wind storm information in the area where you live.
