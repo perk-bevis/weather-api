@@ -36,3 +36,6 @@ To delete a task, click the "Delete" button next to the task you want to delete.
 - CSS
 - Javascript
   
+## Files
+
+* `index.html` :
