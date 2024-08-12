@@ -8,6 +8,10 @@
 Project Weather-api is a simple web application that allows users to search for weather information in the area they are currently living in. With a clean and intuitive interface, users can search for information about weather and rainstorms in their residence.
 This project is built using JavaScript and is a great example of a basic web application that uses DOM manipulation and an event listener.
 
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
 ### Installation
 
 To run this application locally, you need to clone this repository to your local machine. You can do this by running the following command in your terminal:
