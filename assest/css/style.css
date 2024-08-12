@@ -41,6 +41,7 @@ body{
     text-align: center;
     color: aliceblue;
     margin: 40px;
+    transition: 0.4s;
 }
 
 .capital{
@@ -84,4 +85,8 @@ body{
 
 .more-desc div i{
     margin: 10px 0;
+}
+
+.hide{
+    
 }
