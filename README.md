@@ -4,6 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/microsoft/Generative-AI-For-Beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/Generative-AI-For-Beginners/network/?WT.mc_id=academic-105485-koreyst)
 [![GitHub stars](https://img.shields.io/github/stars/microsoft/Generative-AI-For-Beginners.svg?style=social&label=Star)](https://GitHub.com/microsoft/Generative-AI-For-Beginners/stargazers/?WT.mc_id=academic-105485-koreyst)
 
+## About The Project
 Project Weather-api is a simple web application that allows users to search for weather information in the area they are currently living in. With a clean and intuitive interface, users can search for information about weather and rainstorms in their residence.
 This project is built using JavaScript and is a great example of a basic web application that uses DOM manipulation and an event listener.
 
