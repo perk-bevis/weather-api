@@ -39,3 +39,7 @@ To delete a task, click the "Delete" button next to the task you want to delete.
 ## Files
 
 * `index.html` :
+
+* `style.css` :
+
+* `main.js` :
