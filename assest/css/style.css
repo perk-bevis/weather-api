@@ -88,5 +88,6 @@ body{
 }
 
 .hide{
-    
+  visibility: hidden;
+  opacity: 0;
 }
