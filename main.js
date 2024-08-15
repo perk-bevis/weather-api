@@ -22,8 +22,8 @@ async function changeWeatherUI(capitalSearch){
       visibility.innerText = data.visibility + 'm';
       wind.innerText = data.wind.speed + 'm/s';
       sun.innerText = data.main.humidity + '%';
-      let temp = (data.main.temp - 273.15).toFixed(2);
-      value.innerText = temp + '°C';
+      let temp = (data.main.temp - 273.15);
+      value.innerText = temp;
       shortDesc.innerText = data.weather[0] ? data.weather[0].main : '';
       time.innerText = new Date().toLocaleString('vi');
       
