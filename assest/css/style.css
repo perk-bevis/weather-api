@@ -22,35 +22,35 @@ body{
 }
 
 .hot{
-    background: linear-gradient(to bottom,rgba(0,0,0 ,0.8),rgba(0,0,0 ,0.4)), url(https://irace.vn/wp-content/uploads/2019/08/Vietnam-Mountain-Marathon-2024-1.png) no-repeat center/cover;
+    background: linear-gradient(to bottom,rgba(0,0,0 ,0.8),rgba(0,0,0 ,0.4)), url(https://www.camposanto.com/external/wallpapers/Launch_Yellow/FWY_2560x1440.jpg) no-repeat center/cover;
 }
 
 .hot #weather{
-    background: url(https://irace.vn/wp-content/uploads/2019/08/Vietnam-Mountain-Marathon-2024-1.png) no-repeat center/cover;
+    background: url(https://www.camposanto.com/external/wallpapers/Launch_Yellow/FWY_2560x1440.jpg) no-repeat center/cover;
 }
 
 .cold{
-    background: linear-gradient(to bottom,rgba(0,0,0 ,0.8),rgba(0,0,0 ,0.4)), url(https://irace.vn/wp-content/uploads/2019/08/Vietnam-Mountain-Marathon-2024-1.png) no-repeat center/cover;
+    background: linear-gradient(to bottom,rgba(0,0,0 ,0.8),rgba(0,0,0 ,0.4)), url(https://static.vecteezy.com/system/resources/previews/000/359/502/original/vector-purple-landscape-illustration.png) no-repeat center/cover;
 }
 
 .cold #weather{
-    background: url(https://irace.vn/wp-content/uploads/2019/08/Vietnam-Mountain-Marathon-2024-1.png) no-repeat center/cover;
+    background: url(https://static.vecteezy.com/system/resources/previews/000/359/502/original/vector-purple-landscape-illustration.png) no-repeat center/cover;
 }
 
 .cool{
-    background: linear-gradient(to bottom,rgba(0,0,0 ,0.8),rgba(0,0,0 ,0.4)), url(https://irace.vn/wp-content/uploads/2019/08/Vietnam-Mountain-Marathon-2024-1.png) no-repeat center/cover;
+    background: linear-gradient(to bottom,rgba(0,0,0 ,0.8),rgba(0,0,0 ,0.4)), url(https://i.cbc.ca/1.3443972.1455210491!/fileImage/httpImage/firewatch-lanscapr.png) no-repeat center/cover;
 }
 
 .cool #weather{
-    background: url(https://irace.vn/wp-content/uploads/2019/08/Vietnam-Mountain-Marathon-2024-1.png) no-repeat center/cover;
+    background: url(https://i.cbc.ca/1.3443972.1455210491!/fileImage/httpImage/firewatch-lanscapr.png) no-repeat center/cover;
 }
 
 .warm{
-    background: linear-gradient(to bottom,rgba(0,0,0 ,0.8),rgba(0,0,0 ,0.4)), url(https://irace.vn/wp-content/uploads/2019/08/Vietnam-Mountain-Marathon-2024-1.png) no-repeat center/cover;
+    background: linear-gradient(to bottom,rgba(0,0,0 ,0.8),rgba(0,0,0 ,0.4)), url(https://static.cand.com.vn/Files/Image/chienthang/2020/12/12/thumb_660_6dc55c8f-d610-42db-8a8d-a97007227751.jpg) no-repeat center/cover;
 }
 
 .warm #weather{
-    background: url(https://irace.vn/wp-content/uploads/2019/08/Vietnam-Mountain-Marathon-2024-1.png) no-repeat center/cover;
+    background: url(https://static.cand.com.vn/Files/Image/chienthang/2020/12/12/thumb_660_6dc55c8f-d610-42db-8a8d-a97007227751.jpg) no-repeat center/cover;
 }
 
 .search{
